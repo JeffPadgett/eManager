@@ -1,0 +1,9 @@
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\bin\Debug\netstandard2.0\eManager.Domain.deps.json
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\bin\Debug\netstandard2.0\eManager.Domain.dll
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\bin\Debug\netstandard2.0\eManager.Domain.pdb
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\obj\Debug\netstandard2.0\eManager.Domain.csprojAssemblyReference.cache
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\obj\Debug\netstandard2.0\eManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\obj\Debug\netstandard2.0\eManager.Domain.AssemblyInfoInputs.cache
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\obj\Debug\netstandard2.0\eManager.Domain.AssemblyInfo.cs
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\obj\Debug\netstandard2.0\eManager.Domain.dll
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Domain\obj\Debug\netstandard2.0\eManager.Domain.pdb
