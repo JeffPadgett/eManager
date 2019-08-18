@@ -1,3 +1,5 @@
+using eManager.Domain;
+
 namespace eManager.Web.Migrations
 {
     using System;
@@ -14,10 +16,15 @@ namespace eManager.Web.Migrations
 
         protected override void Seed(eManager.Web.Infrastructure.DepartmentDb context)
         {
-            //  This method will be called after migrating to the latest version.
+            context.Departments.AddOrUpdate(d => d.Name,
+                new Department() { Name= "Engineering"},
+                new Department() { Name = "Sales"},
+                new Department() { Name = "Shipping" },
+                new Department() { Name = "Human Resources" }
 
-            //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
-            //  to avoid creating duplicate seed data.
+
+
+                );
         }
     }
 }

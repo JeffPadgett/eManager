@@ -11,10 +11,4 @@ namespace eManager.Domain
         public virtual ICollection<Employee> Employees { get; set; }
     }
 
-
-    interface ICustomer
-    {
-        void Print();
-    }
-
 }

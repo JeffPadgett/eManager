@@ -176,3 +176,6 @@ C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Web\bin\Syste
 C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Web\bin\System.Xml.XPath.XDocument.dll
 C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Web\bin\eManager.Domain.dll
 C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Web\bin\eManager.Domain.pdb
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Web\bin\StructureMap.dll
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Web\bin\StructureMap.pdb
+C:\Users\jp171\Desktop\repository_files\eManager\eManager\eManager.Web\bin\StructureMap.xml
